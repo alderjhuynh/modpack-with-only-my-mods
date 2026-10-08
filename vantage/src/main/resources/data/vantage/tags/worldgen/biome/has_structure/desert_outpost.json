@@ -1,0 +1,8 @@
+{
+    "replace": false,
+    "values": [
+        "minecraft:desert",
+        "vantage:desert_oasis",
+        "vantage:lush_desert"
+    ]
+}

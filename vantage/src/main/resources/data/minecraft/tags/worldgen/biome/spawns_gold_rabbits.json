@@ -1,0 +1,8 @@
+{
+  "values": [
+    "vantage:thornscrub",
+    "vantage:desert_oasis",
+    "#vantage:reference/temperature/warm"
+  ],
+  "replace": false
+}

@@ -1,0 +1,9 @@
+{
+  "values": [
+    "#minecraft:replaceable",
+    "#minecraft:air",
+    "#minecraft:replaceable_by_mushrooms",
+    "#minecraft:flowers",
+    "minecraft:snow"
+  ]
+}

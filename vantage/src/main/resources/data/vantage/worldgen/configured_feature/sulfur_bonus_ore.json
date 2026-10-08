@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:weighted_random_selector",
+  "config": {
+    "features": [
+      {
+        "weight": 2,
+        "data": {
+          "feature": "minecraft:ore_iron",
+          "placement": []
+        }
+      },
+      {
+        "weight": 1,
+        "data": {
+          "feature": "minecraft:ore_redstone",
+          "placement": []
+        }
+      }
+    ]
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "values": [
+    "minecraft:smooth_sandstone",
+    "minecraft:smooth_red_sandstone",
+    "minecraft:dirt_path",
+    "minecraft:snow_block",
+    "minecraft:packed_mud"
+  ],
+  "replace": false
+}

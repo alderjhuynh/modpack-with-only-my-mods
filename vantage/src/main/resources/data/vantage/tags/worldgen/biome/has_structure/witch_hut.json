@@ -1,0 +1,8 @@
+{
+  "replace": false,
+  "values": [
+    "vantage:orchid_swamp",
+    "vantage:ice_marsh",
+    "minecraft:swamp"
+  ]
+}

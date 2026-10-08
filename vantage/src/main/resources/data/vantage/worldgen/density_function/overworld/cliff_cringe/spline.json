@@ -1,0 +1,68 @@
+{
+  "type": "minecraft:flat_cache",
+  "argument": {
+    "type": "minecraft:cache_2d",
+    "argument": {
+      "type": "minecraft:spline",
+      "spline": {
+        "coordinate": "overworld/continents",
+        "points": [
+          {
+            "derivative": 0,
+            "location": -0.28215,
+            "value": 4
+          },
+          {
+            "derivative": 0,
+            "location": -0.22811,
+            "value": {
+              "coordinate": "overworld/erosion",
+              "points": [
+                {
+                  "derivative": 0,
+                  "location": -0.55528,
+                  "value": 0
+                },
+                {
+                  "derivative": 0,
+                  "location": -0.49884,
+                  "value": 4
+                }
+              ]
+            }
+          },
+          {
+            "derivative": 0,
+            "location": -0.17696,
+            "value": {
+              "coordinate": "overworld/erosion",
+              "points": [
+                {
+                  "derivative": 0,
+                  "location": -0.55528,
+                  "value": 0
+                },
+                {
+                  "derivative": 0,
+                  "location": -0.49884,
+                  "value": 4
+                }
+              ]
+            }
+          },
+          {
+            "derivative": 0,
+            "location": -0.13749,
+            "value": 1.0
+          },
+          {
+            "derivative": 0,
+            "location": -0.08917,
+            "value": 4.0
+          }
+        ]
+      }
+    }
+  },
+  "_comment": "Vantage original terrain math for spline.json \u2014 distinct from Terralith/Clifftree, verticality tuned"
+}

@@ -1,0 +1,10 @@
+{
+  "replace": false,
+  "values": [
+    "vantage:basalt_cliffs",
+    "vantage:frozen_cliffs",
+    "vantage:granite_cliffs",
+    "vantage:white_cliffs",
+    "vantage:yosemite_cliffs"
+  ]
+}

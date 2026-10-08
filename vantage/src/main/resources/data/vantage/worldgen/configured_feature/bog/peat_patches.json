@@ -1,0 +1,10 @@
+{
+  "_comment": "Vantage original: peat patches",
+  "type": "minecraft:disk",
+  "config": {
+    "half_height": 1,
+    "radius": { "type": "minecraft:uniform", "max_inclusive": 4, "min_inclusive": 2 },
+    "state_provider": { "type": "minecraft:simple_state_provider", "state": { "Name": "minecraft:muddy_mangrove_roots" } },
+    "target": { "type": "minecraft:matching_blocks", "blocks": ["minecraft:mud", "minecraft:grass_block"] }
+  }
+}

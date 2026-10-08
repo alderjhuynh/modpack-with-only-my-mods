@@ -1,0 +1,8 @@
+{
+  "values": [
+    "vantage:frozen_caves",
+    "vantage:frozen_cliff",
+    "#vantage:reference/temperature/frozen_all"
+  ],
+  "replace": false
+}

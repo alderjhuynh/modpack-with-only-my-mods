@@ -1,0 +1,8 @@
+{
+  "values": [
+    {
+      "id": "vantage:setup",
+      "required": false
+    }
+  ]
+}

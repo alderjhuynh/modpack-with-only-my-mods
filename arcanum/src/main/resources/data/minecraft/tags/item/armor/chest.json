@@ -1,0 +1,11 @@
+{
+    "values": [
+        "chainmail_chestplate",
+        "iron_chestplate",
+        "golden_chestplate",
+        "copper_chestplate",
+        "diamond_chestplate",
+        "leather_chestplate",
+        "netherite_chestplate"
+    ]
+}

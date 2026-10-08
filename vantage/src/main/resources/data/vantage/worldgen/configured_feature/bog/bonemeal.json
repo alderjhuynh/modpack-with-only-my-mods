@@ -1,0 +1,12 @@
+{
+  "_comment": "Vantage original: bog bonemeal — valid simple patch.",
+  "type": "minecraft:simple_block",
+  "config": {
+    "to_place": {
+      "type": "minecraft:simple_state_provider",
+      "state": {
+        "Name": "minecraft:moss_block"
+      }
+    }
+  }
+}

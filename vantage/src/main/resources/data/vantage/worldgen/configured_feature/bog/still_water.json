@@ -1,0 +1,16 @@
+{
+  "_comment": "Vantage original: still water — shallow vegetated pools, distinct from clifftree:bog_water params.",
+  "type": "minecraft:waterlogged_vegetation_patch",
+  "config": {
+    "depth": 2,
+    "extra_bottom_block_chance": 0.6,
+    "extra_edge_column_chance": 0.5,
+    "ground_state": { "type": "minecraft:simple_state_provider", "state": { "Name": "minecraft:mud" } },
+    "replaceable": "#minecraft:lush_ground_replaceable",
+    "surface": "floor",
+    "vegetation_chance": 0.08,
+    "vegetation_feature": { "feature": { "type": "minecraft:simple_block", "config": { "to_place": { "type": "minecraft:simple_state_provider", "state": { "Name": "minecraft:seagrass" } } } }, "placement": [] },
+    "vertical_range": 3,
+    "xz_radius": { "type": "minecraft:uniform", "max_inclusive": 4, "min_inclusive": 2 }
+  }
+}

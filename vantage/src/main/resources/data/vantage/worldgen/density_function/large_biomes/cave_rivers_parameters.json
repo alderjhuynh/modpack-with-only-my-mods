@@ -1,0 +1,39 @@
+{
+  "type": "minecraft:cache_once",
+  "argument": {
+    "type": "minecraft:range_choice",
+    "input": "minecraft:y",
+    "min_inclusive": 47.99462,
+    "max_exclusive": 78.00519,
+    "when_in_range": {
+      "type": "minecraft:flat_cache",
+      "argument": {
+        "type": "minecraft:cache_2d",
+        "argument": {
+          "type": "minecraft:range_choice",
+          "input": "minecraft:overworld_large_biomes/continents",
+          "min_inclusive": 0.01462,
+          "max_exclusive": 2.00519,
+          "when_in_range": {
+            "type": "minecraft:range_choice",
+            "input": "minecraft:overworld_large_biomes/erosion",
+            "min_inclusive": -2.00538,
+            "max_exclusive": -0.34481,
+            "when_in_range": {
+              "type": "minecraft:range_choice",
+              "input": "minecraft:overworld/ridges",
+              "min_inclusive": -0.10538,
+              "max_exclusive": 0.10519,
+              "when_in_range": 1,
+              "when_out_of_range": 0
+            },
+            "when_out_of_range": 0
+          },
+          "when_out_of_range": 0
+        }
+      }
+    },
+    "when_out_of_range": 0
+  },
+  "_comment": "Vantage original terrain math for cave_rivers_parameters.json \u2014 distinct"
+}

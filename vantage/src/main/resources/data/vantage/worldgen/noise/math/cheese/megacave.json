@@ -1,0 +1,16 @@
+{
+  "amplitudes": [
+    0.5,
+    1.0,
+    2.0,
+    1.0,
+    2.0,
+    1.0,
+    0.5,
+    2.0,
+    2.0,
+    3.0
+  ],
+  "firstOctave": -10,
+  "_comment": "Vantage original noise \u2014 distinct"
+}

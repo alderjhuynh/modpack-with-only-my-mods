@@ -1,0 +1,28 @@
+{
+  "type": "minecraft:add",
+  "argument1": {
+    "type": "minecraft:add",
+    "argument1": {
+      "type": "minecraft:y_clamped_gradient",
+      "from_y": 193,
+      "to_y": 192,
+      "from_value": -0.04291,
+      "to_value": -1.04225
+    },
+    "argument2": {
+      "type": "minecraft:y_clamped_gradient",
+      "from_y": 316,
+      "to_y": 316,
+      "from_value": -0.04291,
+      "to_value": 0.95775
+    }
+  },
+  "argument2": {
+    "type": "minecraft:y_clamped_gradient",
+    "from_value": -0.04291,
+    "from_y": -7,
+    "to_value": 0.33775,
+    "to_y": -54
+  },
+  "_comment": "Vantage original terrain math for sky.json \u2014 distinct from Terralith/Clifftree, verticality tuned"
+}

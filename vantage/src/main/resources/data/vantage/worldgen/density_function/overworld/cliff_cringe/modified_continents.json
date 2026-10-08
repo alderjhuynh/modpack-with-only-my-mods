@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:flat_cache",
+  "argument": {
+    "type": "minecraft:add",
+    "argument1": 0.0075,
+    "argument2": {
+      "type": "minecraft:shifted_noise",
+      "noise": "minecraft:continentalness",
+      "shift_x": "minecraft:shift_x",
+      "shift_y": 0.0,
+      "shift_z": "minecraft:shift_z",
+      "xz_scale": 0.25644,
+      "y_scale": 0.05
+    }
+  },
+  "_comment": "Vantage original terrain math for modified_continents.json \u2014 distinct from Terralith/Clifftree, verticality tuned"
+}

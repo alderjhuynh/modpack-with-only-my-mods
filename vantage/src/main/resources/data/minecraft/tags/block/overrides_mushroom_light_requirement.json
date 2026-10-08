@@ -1,0 +1,11 @@
+{
+  "replace": false,
+  "values": [
+    "minecraft:mud",
+    "#minecraft:moss_blocks",
+    "#minecraft:logs",
+    "minecraft:mossy_cobblestone",
+    "minecraft:gravel",
+    "minecraft:moss_block"
+  ]
+}

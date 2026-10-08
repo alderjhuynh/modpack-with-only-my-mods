@@ -1,0 +1,7 @@
+{
+  "values": [
+    "vantage:sparse_forest",
+    "#vantage:reference/forest"
+  ],
+  "replace": false
+}

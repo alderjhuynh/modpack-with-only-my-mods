@@ -1,0 +1,8 @@
+{
+  "values": [
+    "#vantage:all_caves",
+    "#vantage:reference/cave",
+    "#vantage:reference/deep_cave"
+  ],
+  "replace": false
+}

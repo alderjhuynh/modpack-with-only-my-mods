@@ -1,0 +1,51 @@
+{
+  "type": "minecraft:cache_once",
+  "argument": {
+    "type": "minecraft:mul",
+    "argument1": {
+      "type": "minecraft:add",
+      "argument1": {
+        "type": "minecraft:mul",
+        "argument1": 2.0,
+        "argument2": {
+          "type": "minecraft:noise",
+          "noise": "minecraft:pillar",
+          "xz_scale": 8.99787,
+          "y_scale": 0.05
+        }
+      },
+      "argument2": {
+        "type": "minecraft:add",
+        "argument1": -1.0,
+        "argument2": {
+          "type": "minecraft:mul",
+          "argument1": -1.0,
+          "argument2": {
+            "type": "minecraft:noise",
+            "noise": "minecraft:pillar_rareness",
+            "xz_scale": 0.99787,
+            "y_scale": 0.97113
+          }
+        }
+      }
+    },
+    "argument2": {
+      "type": "minecraft:cube",
+      "argument": {
+        "type": "minecraft:add",
+        "argument1": 0.55,
+        "argument2": {
+          "type": "minecraft:mul",
+          "argument1": 0.55,
+          "argument2": {
+            "type": "minecraft:noise",
+            "noise": "minecraft:pillar_thickness",
+            "xz_scale": 0.99787,
+            "y_scale": 0.97113
+          }
+        }
+      }
+    }
+  },
+  "_comment": "Vantage original terrain math for pillars_large_base.json \u2014 distinct from Terralith/Clifftree, verticality tuned"
+}

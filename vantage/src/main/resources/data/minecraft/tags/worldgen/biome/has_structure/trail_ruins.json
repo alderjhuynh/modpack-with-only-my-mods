@@ -1,0 +1,10 @@
+{
+  "values": [
+    "vantage:snowy_old_growth_taiga",
+    "windswept_hills",
+    "windswept_forest",
+    "#vantage:reference/taiga",
+    "#vantage:reference/jungle"
+  ],
+  "replace": false
+}

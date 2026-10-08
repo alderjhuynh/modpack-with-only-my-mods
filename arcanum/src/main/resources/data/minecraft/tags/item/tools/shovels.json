@@ -1,0 +1,11 @@
+{
+    "values": [
+        "stone_shovel",
+        "wooden_shovel",
+        "iron_shovel",
+        "golden_shovel",
+        "copper_shovel",
+        "diamond_shovel",
+        "netherite_shovel"
+    ]
+}

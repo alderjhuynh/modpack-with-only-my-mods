@@ -1,0 +1,10 @@
+package com.aura.puppeteer.client;
+
+import net.fabricmc.api.ClientModInitializer;
+
+public class PuppeteerClient implements ClientModInitializer {
+    @Override
+    public void onInitializeClient() {
+        AnimationClientState.initialize();
+    }
+}
