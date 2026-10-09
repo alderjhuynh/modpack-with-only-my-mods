@@ -13,6 +13,11 @@ public class ModEffects {
             new NourishmentEffect(MobEffectCategory.BENEFICIAL, 0xE8B64A)
     );
 
+    public static final Holder<MobEffect> FAMISHED = register(
+            "famished",
+            new FamishedEffect(MobEffectCategory.BENEFICIAL, 0xCC5A2A)
+    );
+
     private static Holder<MobEffect> register(String path, MobEffect effect) {
         return Registry.registerForHolder(
                 BuiltInRegistries.MOB_EFFECT,

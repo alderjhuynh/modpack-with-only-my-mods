@@ -3,8 +3,10 @@
 	"package": "com.aura.ambrosia.client.mixin",
 	"compatibilityLevel": "JAVA_25",
 	"client": [
+		"appleskin.ClientTooltipComponentMixin",
 		"appleskin.FoodDataAccessor",
-		"appleskin.HudMixin"
+		"appleskin.HudMixin",
+		"appleskin.ItemStackTooltipMixin"
 	],
 	"injectors": {
 		"defaultRequire": 1
