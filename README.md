@@ -8,20 +8,20 @@ Lamplight is a vanilla-plus modpack built to feel like settling into a warm worl
 
 ## What’s inside
 
-Vantage: cozy, large-scale worldgen
-Cairn: structures and points of interest
-Almanac: seasons, weather, and temperature
-Hearthwright: building and decoration
-Ambrosia: cooking and farming
-Panacea: potions and cauldrons
-Tinkerer: trinkets and jewlery
-Menagerie: creatures, fishing, and foraging
-Gloaming: twilight threats and bosses
-Arcanum: gear and enchanting overhaul
-Armory: weapons, armor, and a back slot
-Folio: scrolls and spellbooks
-Wayfarer: backpacks, waypoints, and maps
-Puppeteer: player animations
+- Vantage: cozy, large-scale worldgen
+- Cairn: structures and points of interest
+- Almanac: seasons, weather, and temperature
+- Hearthwright: building and decoration
+- Ambrosia: cooking and farming
+- Panacea: potions and cauldrons
+- Tinkerer: trinkets and jewlery
+- Menagerie: creatures, fishing, and foraging
+- Gloaming: twilight threats and bosses
+- Arcanum: gear and enchanting overhaul
+- Armory: weapons, armor, and a back slot
+- Folio: scrolls and spellbooks
+- Wayfarer: backpacks, waypoints, and maps
+- Puppeteer: player animations
 
 ## Design pillars
 
