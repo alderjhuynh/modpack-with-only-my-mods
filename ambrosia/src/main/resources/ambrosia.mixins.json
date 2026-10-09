@@ -3,7 +3,9 @@
 	"package": "com.aura.ambrosia.mixin",
 	"compatibilityLevel": "JAVA_25",
 	"mixins": [
-		"ExampleMixin"
+		"ExampleMixin",
+		"FoodDataMixin",
+		"NourishmentExhaustionMixin"
 	],
 	"injectors": {
 		"defaultRequire": 1

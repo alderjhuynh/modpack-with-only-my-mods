@@ -3,7 +3,8 @@
 	"package": "com.aura.ambrosia.client.mixin",
 	"compatibilityLevel": "JAVA_25",
 	"client": [
-		"ExampleClientMixin"
+		"appleskin.FoodDataAccessor",
+		"appleskin.HudMixin"
 	],
 	"injectors": {
 		"defaultRequire": 1

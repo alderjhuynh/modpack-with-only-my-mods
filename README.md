@@ -1,46 +1,32 @@
-# modpack with only my mods
+# Lamplight
 
-A vanilla-plus modpack built entirely from my own mods.
+A cozy, vanilla-plus world made entirely of mods I've written.
 
-No kitchen-sink content. No god gear in an afternoon. Just Minecraft where your gear, your magic, and your choices actually feel like yours.
+## About
 
-## What this is trying to do
+Lamplight is a vanilla-plus modpack built to feel like settling into a warm world. Every mod in it is original, designed together so they share a tone and a sense of purpose. The goal is not to bury Minecraft under content, but to grow it into a place that’s gentle, beautiful, and lived-in.
 
-Vanilla Minecraft lets you become unstoppable pretty fast — one set of maxed-out armor, Mending + Unbreaking, and you're done forever. Everything after that is just more of the same.
+## What’s inside
 
-This pack is going the opposite direction:
+Vantage: cozy, large-scale worldgen
+Cairn: structures and points of interest
+Almanac: seasons, weather, and temperature
+Hearthwright: building and decoration
+Ambrosia: cooking and farming
+Panacea: potions and cauldrons
+Tinkerer: trinkets and jewlery
+Menagerie: creatures, fishing, and foraging
+Gloaming: twilight threats and bosses
+Arcanum: gear and enchanting overhaul
+Armory: weapons, armor, and a back slot
+Folio: scrolls and spellbooks
+Wayfarer: backpacks, waypoints, and maps
+Puppeteer: player animations
 
-**Make every choice mean something.**
+## Design pillars
 
-You can't have everything on one sword. You can't have one armor set for every situation. You carry your weapon on your back, your spells in a book, your potions brewed with intent — because an adventurer should look and feel like an adventurer, not a menu icon.
+Cozy, with stakes. Warmth means more when the world has some weather and some dusk. Vanilla-plus. It builds on Minecraft’s feel rather than replacing it. Each mod stands alone but is designed to fit together. Players learn by wandering, not reading.
 
-**Make things physical.**
+## Who it’s for
 
-Weapons live on your body, not in a GUI slot. Magic comes from scrolls and spellbooks you find and learn. Potions come from a cauldron you actually use. Animations make it all move like it belongs in the world.
-
-**Stay vanilla at heart.**
-
-No tech trees, no power creep. Just the systems Minecraft already has — enchanting, combat, potions, exploration — rethought so they stay interesting for hundreds of hours.
-
-## The idea in one sentence
-
-> Become a character, not a stat sheet.
-
-## The mods
-
-Each mod covers one piece of that fantasy. They're designed to work together, but each stands on its own:
-
-- **Arcanum** — enchanting with trade-offs. Limited slots, no infinite gear.
-- **Armory** — your weapon has a place on your body.
-- **Folio** — magic you carry, learn, and cast.
-- **Panacea** — alchemy worth caring about.
-- **Puppeteer** — the animation work that makes it all feel alive (invisible, behind the scenes).
-- **Vantage** — worldgen that actually looks and feels good.
-
-Nothing here is finished. Expect rough edges, rebalances, and rewrites. That's the point — this pack grows as the mods grow.
-
-## Who this is for
-
-- Players who think choosing between Fortune and Efficiency *should* hurt a little.
-- Players who want their character to look cool standing still, not just in combat.
-- Players who'd rather master a small set of tools than collect a hundred swords with bigger numbers.
+Players who like building, cooking, and exploring at a slower pace, and who want something gentle with enough depth to keep coming back to.

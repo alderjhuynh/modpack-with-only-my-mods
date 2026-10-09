@@ -1,4 +1,4 @@
-package com.aura.ambrosia.client.mixin;
+package com.aura.cairn.client.mixin;
 
 import net.minecraft.client.Minecraft;
 import org.spongepowered.asm.mixin.Mixin;

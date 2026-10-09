@@ -1,9 +1,5 @@
 # Ambrosia
 
-## Setup
+## Vision
 
-For setup instructions, please see the [Fabric Documentation page](https://docs.fabricmc.net/develop/getting-started/creating-a-project#setting-up) related to the IDE that you are using.
-
-## License
-
-This template is available under the CC0 license. Feel free to learn from it and incorporate it in your own projects.
+Ambrosia is a cozy cooking and farming mod in the spirit of Farmer’s Delight. It turns meals into small rituals, with ingredients you grow, gather, and prepare into dishes worth sitting down for.

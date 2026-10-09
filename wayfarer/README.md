@@ -1,9 +1,5 @@
 # Wayfarer
 
-## Setup
+## Vision
 
-For setup instructions, please see the [Fabric Documentation page](https://docs.fabricmc.net/develop/getting-started/creating-a-project#setting-up) related to the IDE that you are using.
-
-## License
-
-This template is available under the CC0 license. Feel free to learn from it and incorporate it in your own projects.
+Wayfarer equips players for the journey. Backpacks, waypoints, and a map system make long expeditions practical and enjoyable, and help you remember where you’ve been. It should make leaving home feel exciting rather than daunting.
